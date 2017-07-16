@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: InternetDogs
+Bundle-SymbolicName: InternetDogs
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.junald.controller,
+ com.junald.dao,
+ com.junald.model,
+ com.junald.util
